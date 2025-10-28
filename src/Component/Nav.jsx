@@ -3,7 +3,7 @@ import React from 'react'
 
 function Nav() {
   return (
-    <div className='flex items-center justify-between p-9 shadow-md'>
+    <div className='flex items-center justify-between p-9'>
         <a href="#"> <h1 className='text-5xl font-bold'>Reformation</h1></a>
         <div className='flex items-center gap-6 text-lg font-medium'>
           <a href="#">Sustainability</a>
